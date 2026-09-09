@@ -1,0 +1,28 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "ParamGroupHead",
+      "Name": "Angle X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "ParamGroupHead",
+      "Name": "Angle Y"
+    }
+  ],
+  "ParameterGroups": [
+    {
+      "Id": "ParamGroupHead",
+      "GroupId": "",
+      "Name": "Head Rotation"
+    }
+  ],
+  "Parts": [
+    {
+      "Id": "PartRoot",
+      "Name": "Root"
+    }
+  ]
+}

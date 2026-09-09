@@ -1,0 +1,40 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "AuditAvatar.moc3",
+    "Textures": [
+      "AuditAvatar.1024/texture_00.png"
+    ],
+    "DisplayInfo": "AuditAvatar.cdi3.json"
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY",
+        "ParamMouthForm"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    }
+  ],
+  "HitAreas": [
+    {
+      "Id": "ArtMesh_Head",
+      "Name": "Head"
+    }
+  ],
+  "Layout": {
+    "CenterX": 0.0,
+    "CenterY": 0.0,
+    "Width": 2.0,
+    "Height": 2.0
+  }
+}
